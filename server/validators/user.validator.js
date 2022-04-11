@@ -17,3 +17,15 @@ exports.userRegisterValidator = [
   })
   .withMessage('Please use a valid password.')
 ]
+
+exports.userLoginValidator = [
+  check('email')
+  .isEmail()
+  .withMessage('Must be a valid email address.'),
+  check('password')
+  .isLength({
+    min: 6,
+    max: 16
+  })
+  .withMessage('Please use a valid password.')
+]
