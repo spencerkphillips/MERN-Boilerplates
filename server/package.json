@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@sendgrid/mail": "^7.6.2",
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
@@ -18,9 +19,15 @@
     "nodemon": "^2.0.15"
   },
   "scripts": {
-    "start": "nodemon server"
+    "start": "nodemon server.js",
+    "server": "node server.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "authentication",
+    "login",
+    "register",
+    "google"
+  ],
+  "author": "Spencer Phillips",
   "license": "ISC"
 }
