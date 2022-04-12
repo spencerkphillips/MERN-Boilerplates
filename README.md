@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/spencerkphillips/MERN-Boilerplates/repository/assets/Header.jpg?size=100%" alt="Repository Header (MERN BOILERPLATES)">
+  <img src="https://github.com/spencerkphillips/MERN-Boilerplates/blob/main/repository/assets/Header.jpg?raw=true?size=100%" alt="Repository Header (MERN BOILERPLATES)">
 </p>
 # MERN BOILERPLATES
 
