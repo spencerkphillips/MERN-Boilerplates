@@ -1,6 +1,9 @@
-# REPOSITORY NAME
+<p align="center">
+  <img src="https://github.com/spencerkphillips/MERN-Boilerplates/repository/assets/Header.jpg?size=100%" alt="Repository Header (MERN BOILERPLATES)">
+</p>
+# MERN BOILERPLATES
 
-> Lorem ipsum dolar sit amet
+> A repository of boilerplate scaffolding for MERN projects.
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
@@ -10,27 +13,23 @@
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus.
+A skillfuly cultivated repository of projects and boilerplates. Anything and everything to do with MERN(Mongo | Express | React | NodeJS), including authentication, ecommerce and many other topics. Want to learn more about each boilerplate? Change the branch to the boilerplate of your choosing. We are constantly working on expanding the provided boilerplate categories based on individual needs and goals.
 
 ## Boilerplates
 
 ### Authentication
 
-Lorem ipsum dolar sit amet...
+An expansive MERN Authentication boilerplate with social login, JWT and more...
 Visit at [Authentication Branch](https://github.com/spencerkphillips/MERN-Boilerplates/tree/full-authentication)
 
 ### CRUD
 
-Lorem ipsum dolar sit amet...
+Taking the basic CRUD(Create Read Update Delete) application and pushing it to a new level...
 Visit at [CRUD Branch](https://github.com/spencerkphillips/MERN-Boilerplates/tree/full-crud)
 
 ### eCommerce
 
-Lorem ipsum dolar sit amet...
+A top-level eCommerce boilerplate for those keen on learning how to create a custom shopping platform...
 Visit at [eCommerce Branch](https://github.com/spencerkphillips/MERN-Boilerplates/tree/full-ecommerce)
 
 ## Learning Repository
