@@ -35,7 +35,7 @@ exports.Register = (req, res) => {
     });
 
     const emailData = {
-      from: process.env.SMTP_USER,
+      from: process.env.SENDGRID_ADMIN_EMAIL,
       to: email,
       subject: `Account activation link`,
       html: `

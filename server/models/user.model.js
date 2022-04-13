@@ -20,10 +20,10 @@ const userSchema = new mongoose.Schema({
     required: true
   },
   salt: String,
-  roles: [{
+  role: {
     type: String,
     default: 'subscriber'
-  }],
+  },
   resetPasswordLink: {
     data: String,
     default: ''
