@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { Link, Redirect } from 'react-router-dom';
 import Layout from '../layouts/Layout';
 import axios from 'axios';
 import { decodeToken } from "react-jwt";
